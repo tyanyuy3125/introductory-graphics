@@ -31,23 +31,23 @@ Please note that all materials are written in Simplified Chinese, no English mat
 由于时间较短（预计总共4学时），并且面向的是电子系的同学，所以本讲座材料有如下特色：
 
 * 有比较明显的电子工程的特色——但这其实是好事。在传统的图形学讲义中往往不会涉及到完整的信号分析和电磁场理论的内容，这使得图形学的故事总是不够完整。在本讲座中，我们从最基础的数学和物理原理讲起，让整座大厦有坚实的基础。
-
 * 大量的删减。被删减的比较重要内容有：Bezier和NURBS曲线；颜色等。
 
 ## 参考资料
+
 * LearnOpenGL - © Joey de Vries
-
 * 3D Computer Graphics: A Mathematical Introduction with OpenGL - © Samuel R. Buss
-
 * Algebra I - © Michael Artin
-
 * 《物理光学》 - 梁铨廷
-
 * 《电磁场理论基础》 - 王蔷、李国定、龚克
-
 * Antennas: For All Applications (3rd edition) - John D. Kraus, Ronald J. Marhefka
+
+## 致谢
+
+特别感谢清华大学电子工程系学生科协软件部（ @eesast ）对本外系势力提供的向电子系学生介绍图形学的机会。
 
 ## 授权信息
 
 所有内容按照 CC BY-NC 4.0 授权。
+
 Tianyu Huang @ School of Software, Tsinghua University
