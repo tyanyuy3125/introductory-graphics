@@ -7,7 +7,7 @@ Please note that all materials are written in Simplified Chinese, no English mat
 ## 勘误
 * “物理部分”辐亮度方程的左手边不含变量 $\omega_i$ 。
 * “信号部分”零阶采样保持的冲激函数左手边应该为 $h(x,y)$ 。
-* “信号部分” $\delta $ 函数定义中，右手边的 $x$ 均改为 $t$ 。
+* “信号部分” $\delta$ 函数定义中，右手边的 $x$ 均改为 $t$ 。
 * 请注意，“几何部分”的“摄像机模型与透视”一节的末尾，宽高比到视口尺寸参数的转换采用了 OpenGL 的习惯，也就是纵向 FOV，这和之前的推导是不相符的。
 * “几何部分”的“可编程渲染管线”一节中，我忽略了当前 WebGL 在使用 OpenGL ES 标准，因此一些旧的 GLSL 语法依然保留。
 
