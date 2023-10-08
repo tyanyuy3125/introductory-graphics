@@ -1,12 +1,19 @@
+Please note that all materials are written in Simplified Chinese, no English materials are provided.
+
 # 近现代计算机图形学导引
 
 建议查看 pdf 文件或者使用本地呈现器打开 markdown 文件。GitHub 对 LaTeX 的渲染支持过于古老了。
 
+## 勘误
+* “物理部分”辐亮度方程的左手边不含变量 $\omega_i$ 。
+* “信号部分”零阶采样保持的冲激函数左手边应该为 $h(x,y)$ 。
+* “信号部分” $\delta $ 函数定义中，右手边的 $x$ 均改为 $t$ 。
+* 请注意，“几何部分”的“摄像机模型与透视”一节的末尾，宽高比到视口尺寸参数的转换采用了 OpenGL 的习惯，也就是纵向 FOV，这和之前的推导是不相符的。
+* “几何部分”的“可编程渲染管线”一节中，我忽略了当前 WebGL 在使用 OpenGL ES 标准，因此一些旧的 GLSL 语法依然保留。
+
 ## 简介
 
 Introductory Graphics is a two-day brief (4 hrs) lecture on computer graphics for first-year students of the Dept. of EE of Tsinghua University.
-
-Please note that all materials are written in Simplified Chinese, no English materials are provided.
 
 近现代计算机图形学导引是面向清华大学电子工程系大一年级的本科生开设的一门为其两天的讲座。本讲座分为“几何”“信号”和“物理”三个部分，主要涉及以下内容：
 
