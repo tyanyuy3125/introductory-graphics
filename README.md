@@ -2,6 +2,8 @@ Please note that all materials are written in Simplified Chinese, no English mat
 
 # introductory-graphics
 
+### 这个repo过于黑历史了，在2024年春的清华大学电子系学生科协寒假培训中，有一个更新更好的版本可供查看：https://github.com/CodingEric/realtime-magic-supplement
+
 建议查看 pdf 文件或者使用本地呈现器打开 markdown 文件。GitHub 对 LaTeX 的渲染支持过于古老了。
 
 ## 勘误
