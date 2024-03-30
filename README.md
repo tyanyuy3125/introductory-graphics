@@ -57,7 +57,7 @@ Introductory Graphics is a two-day brief (4 hrs) lecture on computer graphics fo
 
 ## 致谢
 
-特别感谢清华大学电子工程系学生科协软件部（ @eesast ）对本外系势力提供的向电子系学生介绍图形学的机会。
+特别感谢清华大学电子工程系学生科协软件部（ [@eesast](https://github.com/eesast/) ）对本外系势力提供的向电子系学生介绍图形学的机会。
 
 ## 授权信息
 
